@@ -29,3 +29,6 @@ Vi anbefaler [Render.com](https://render.com/) til at hoste jeres API samt Flutt
 Alternativt til Render kan vi også bruge [Netlify](https://netlify.app/) til at hoste Flutter applikation uden downtime - Man kan se applikationen her - [Netlify Flutter](https://h4flutter.netlify.app/)
 
 Til database bruger vi enten [Neon](Neon.tech) eller [Supabase](https://supabase.com) som begge tilbyder en gratis version af Postgres!
+
+
+tests
